@@ -27,7 +27,5 @@ Get source from github and unzip in target directory
         });
           
 `````
--->
-    livingroom light is OFF
-
-    livingroom light is switched ON
+--> livingroom light is OFF
+--> livingroom light is switched ON
