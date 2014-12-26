@@ -9,7 +9,7 @@ Written by Wouter van der Rijst.
 ## Install
 Get source from github and unzip in target directory
 
-## Check to plug:
+## Check the plug:
 `````javascript
 	var smartplug = require('./ediplug');
 
@@ -21,7 +21,7 @@ Get source from github and unzip in target directory
 `````
 --> livingroom light is OFF
 
-## Switch to plug:
+## Switch the plug:
 `````javascript
         // get toggle state of the ediplug
         plug.probe( function(p0) {
